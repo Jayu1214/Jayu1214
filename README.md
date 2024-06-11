@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Trivedi</h1>
 # 💫 About Me:
 🔭 I’m currently working on different projects <br>👯 I’m looking to collaborate <br>🌱 I’m currently learning Python ,C ,C++, Kali Linux ,Bash, Java , JavaScript .<br><br>
-<img align="right" alt="coding" width="400" src="![230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c](https://github.com/Jayu1214/Jayu1214/assets/91301490/8714706e-21af-4e4b-b701-8f18971ff4d1)
-">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-trivedi-1701b924a/) 
