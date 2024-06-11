@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Trivedi</h1>
 # 💫 About Me:
 🔭 I’m currently working on different projects <br>👯 I’m looking to collaborate <br>🌱 I’m currently learning Python ,C ,C++, Kali Linux ,Bash, Java , JavaScript .<br><br>
-<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-trivedi-1701b924a/) 
