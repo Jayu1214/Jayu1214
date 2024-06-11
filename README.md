@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Trivedi</h1>
 # 💫 About Me:
 🔭 I’m currently working on different projects <br>👯 I’m looking to collaborate <br>🌱 I’m currently learning Python ,C ,C++, Kali Linux ,Bash, Java , JavaScript .<br><br>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpopulusengenharia.com.br%2Fchill-coding-programming-lo-fi-animation-%5Broyalty-free-stock-nn-18061620&psig=AOvVaw0sxZ02sTCJLN-tXBCB2p5F&ust=1718197406456000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLioxefO04YDFQAAAAAdAAAAABBg">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-trivedi-1701b924a/) 
