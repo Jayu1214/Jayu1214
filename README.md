@@ -16,6 +16,7 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtnYm43cXI0cWh3aGJ5bDh4c3gyOG10aG9sc3BtMTg5dDh5NTN1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jayu1214&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jayu1214&theme=dark&hide_border=false)<br/>
