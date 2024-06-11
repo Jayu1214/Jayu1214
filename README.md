@@ -4,8 +4,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=Jayu1214&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtnYm43cXI0cWh3aGJ5bDh4c3gyOG10aG9sc3BtMTg5dDh5NTN1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 # 💫 About Me:
 🔭 I’m currently working on different projects <br>👯 I’m looking to collaborate <br>🌱 I’m currently learning Python ,C ,C++, Kali Linux ,Bash, Java , JavaScript .<br><br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-trivedi-1701b924a/) 
