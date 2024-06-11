@@ -8,6 +8,9 @@
 🔭 I’m currently working on different projects <br>👯 I’m looking to collaborate <br>🌱 I’m currently learning Python ,C ,C++, Kali Linux ,Bash, Java , JavaScript .<br><br>
 
 
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtnYm43cXI0cWh3aGJ5bDh4c3gyOG10aG9sc3BtMTg5dDh5NTN1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-trivedi-1701b924a/) 
 
@@ -19,7 +22,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayu1214&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtnYm43cXI0cWh3aGJ5bDh4c3gyOG10aG9sc3BtMTg5dDh5NTN1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
