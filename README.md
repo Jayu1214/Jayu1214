@@ -9,6 +9,15 @@
   </ul>
 </div>
 
+<div>
+<p align="center">
+  <a href="https://github.com/Jayu1214">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;Cybersecurity+Enthusiast;JavaScript+%7C+MongoDB+%7C+React+%7C+Networking;Always+Learning+New+Things&center=true&width=600&height=50">
+  </a>
+</p>
+</div>
+
+
 
 <!--- snake -->
 <div align="center">
