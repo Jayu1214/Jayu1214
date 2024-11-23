@@ -37,8 +37,7 @@
 
 
 <!--Intro start-->
--Greetings! I'm Jay Trivedi, a tech explorer voyaging through the captivating realm of Computer Science at Symbiosis Institute of Technology, where I'm currently embarking on my exhilarating 3rd-year journey. 🚀
-With an insatiable curiosity and a knack for problem-solving, I've found my heart's resonance in the enchanting domain of cybersecurity 🛡️💻 and coding. Let's connect and explore the tech world together!
+### Greetings! I'm Jay Trivedi, a tech explorer voyaging through the captivating realm of Computer Science at Symbiosis Institute of Technology, where I'm currently embarking on my exhilarating 3rd-year journey.🚀With an insatiable curiosity and a knack for problem-solving, I've found my heart's resonance in the enchanting domain of cybersecurity 🛡️💻 and coding. Let's connect and explore the tech world together!
 <!--Intro end-->
 
 
@@ -86,7 +85,7 @@ With an insatiable curiosity and a knack for problem-solving, I've found my hear
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,dynamodb,express,figma,firebase,redis,github,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes,python,html,bash&perline=14" />
   </a>
 </p>
 
