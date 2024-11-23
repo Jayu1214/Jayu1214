@@ -20,13 +20,11 @@
 
 
 <!--- snake -->
-<div align="center">
-  <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/github-snake.svg" />
-  </picture>
-</div>
+<br><br>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
 
 
 
